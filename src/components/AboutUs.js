@@ -2,6 +2,7 @@ import React from 'react';
 
 const AboutUs = () => (
   <React.Fragment>
+    <h1>Our Team</h1>
     <h2>About Us</h2>
     <p>
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
